@@ -1,4 +1,4 @@
-# Week 3 — Introduction to Git & GitHub
+# Week 4 — Introduction to Git & GitHub
 
 ## Objectives
 - Learn what Git is
